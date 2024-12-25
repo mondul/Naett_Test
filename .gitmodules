@@ -1,0 +1,3 @@
+[submodule "naett"]
+	path = naett
+	url = https://github.com/erkkah/naett.git
